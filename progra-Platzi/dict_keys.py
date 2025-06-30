@@ -4,7 +4,8 @@ numbers = {1: "uno", 2: "dos", 3: "tres"}
 
 print(numbers[2])
 
-# diccionario de carla
+# diccionario de carla, esto es más como describir un objeto 
+# o asi lo entiendo
 information = {"Name": "Carla",
                "Last_Name": "Moreno",
                "Height": 1.50,
@@ -12,6 +13,8 @@ information = {"Name": "Carla",
 
 print(information)
 
+# con esto elimina la caracteristica de edad del objeto descrito
+# anteriormente en el diccionario
 del information["Age"]
 
 print(information)

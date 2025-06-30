@@ -1,3 +1,5 @@
+# el input se usa para solicitar informacion al usuario
+
 name = input("Ingrese su nombre:")
 print(name)
 print(type(name))

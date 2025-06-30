@@ -1,8 +1,11 @@
+# la primera matriz
 matrix = [[1,2,3],
           [4,5,6],
           [7,8,9]]
 
+# se imprime la matriz por completo
 print(matrix)
+# se imprime las posiciones solicitadas de la matriz
 print(matrix[0][1])
 
 numbers = ( 1,2,3,4,5 ) # los parentesis para las tuplas es 
