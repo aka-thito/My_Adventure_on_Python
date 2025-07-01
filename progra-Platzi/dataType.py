@@ -11,7 +11,7 @@ print(z)
 # hola la vida es hermosa como esta clase y mis pequeños avances
 # en este lenguaje.
 
-# tio de datos Python: Booleanos
+# tipo de datos Python: Booleanos
 
 is_true = True
 is_false = False
