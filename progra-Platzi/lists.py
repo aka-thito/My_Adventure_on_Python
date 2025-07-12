@@ -1,7 +1,7 @@
 to_do = ["Dirigirnos al hotel", 
          "Ir a almorzar",
          "Visitar un museo",
-         "Volver al hotel"]
+         "Volver al hotel"] #Primer ejemplo de lista
 
 print(to_do)
 
