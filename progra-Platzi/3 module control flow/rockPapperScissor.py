@@ -1,4 +1,4 @@
-# Ejercicio / Reto Clase 
+# Ejercicio / Reto Clase 15
 
 # hacer un juego de piedra papel o tijeras
 
