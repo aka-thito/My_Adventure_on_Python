@@ -1,4 +1,4 @@
-# Ejercicio / Reto
+# Ejercicio / Reto Clase 
 
 # hacer un juego de piedra papel o tijeras
 
