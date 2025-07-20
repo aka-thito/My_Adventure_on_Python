@@ -1,3 +1,5 @@
+# Ejemplo de biblioteca Clase 24
+
 class Book:
     
     def __init__(self, title, author):
@@ -100,3 +102,15 @@ library.add_book(book1)
 library.add_book(book2)
 
 library.register_user(user1)
+
+# Mostrar libros
+
+library.show_available_books()
+
+# Realiza prestamo
+
+user1.borrow_book(book1)
+
+# Mostrar libros
+
+library.show_available_books()
