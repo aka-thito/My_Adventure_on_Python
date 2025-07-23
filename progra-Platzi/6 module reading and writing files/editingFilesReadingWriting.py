@@ -1,3 +1,5 @@
+# Clase 30
+
 # Leer un archivo línea por línea
 
 """with open('cuento.txt', 'r') as file:
